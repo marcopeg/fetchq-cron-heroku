@@ -2,7 +2,7 @@
   "name": "Fetchq CRON",
   "description": "Run smart cron jobs",
   "repository": "https://github.com/marcopeg/fetchq-cron-heroku",
-  "logo": "https://raw.githubusercontent.com/marcopeg/fetchq-cron-heroku/master/fetchq-cron.png",
+  "logo": "https://raw.githubusercontent.com/marcopeg/fetchq-cron-heroku/master/assets/fetchq-cron.png",
   "keywords": ["cron", "tasks", "postgres", "queue"],
   "success_url": "/",
   "formation": {
